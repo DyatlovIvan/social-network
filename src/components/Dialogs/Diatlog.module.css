@@ -28,3 +28,7 @@ grid-template-columns: 2fr 10fr;
     color: white;
     text-decoration: none;
 }
+.dialog img{
+    width: 30px;
+    border-radius: 50px;
+}

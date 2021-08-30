@@ -3,7 +3,7 @@ import s from'./ProfileInfo.module.css';
 const ProfileInfo = () => {
     return (
         <div>
-            <div>
+            <div className={s.headLayer}>
                 <img src='https://vjoy.cc/wp-content/uploads/2019/07/1-1.jpg'/>
             </div>
             <div className={s.descriptionBlock}>
