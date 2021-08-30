@@ -20,6 +20,13 @@ let state = {
             {id: 2, message: 'how a u?'},
             {id: 3, message: 'yo'},
         ]
+    },
+    sidebar:{
+        friends:[
+            {id:1, name: 'Dima', img: 'https://st.depositphotos.com/1779253/5140/v/600/depositphotos_51402215-stock-illustration-male-avatar-profile-picture-use.jpg'},
+            {id:2, name: 'Valera', img: 'https://st.depositphotos.com/1779253/5140/v/600/depositphotos_51402215-stock-illustration-male-avatar-profile-picture-use.jpg'},
+            {id:3, name: 'Sveta', img: 'https://st.depositphotos.com/1779253/5140/v/600/depositphotos_51402215-stock-illustration-male-avatar-profile-picture-use.jpg'},
+        ]
     }
 }
 

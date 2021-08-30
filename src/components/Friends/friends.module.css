@@ -1,0 +1,9 @@
+
+.friends img {
+    width:70px;
+    display:inline-block;
+    border-radius: 50px;
+    float:left;
+}
+
+
